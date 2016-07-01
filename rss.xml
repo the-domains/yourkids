@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yourkids]]></title>
+        <description><![CDATA[yourkids]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Jul 2016 00:12:59 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Your Kids & The Internet]]></title>
+            <description><![CDATA[<p>A couple of questions: "What is the Internet doing to Your Kids?" and "What are Your Kids doing to the Internet."</p>]]></description>
+            <link>undefinedyour-kids-and-the-internet/index.html</link>
+            <guid isPermaLink="false">aeb741e6-29a8-4458-b9d4-ca97abf40709</guid>
+            <pubDate>Fri, 01 Jul 2016 00:12:57 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
