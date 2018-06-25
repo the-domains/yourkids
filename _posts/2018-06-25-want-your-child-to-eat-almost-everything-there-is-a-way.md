@@ -19,13 +19,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.npr.org/sections/thesalt/2018/06/09/618025893/want-your-child-to-try-eat-almost-everything-skip-the-kids-menu?t=1529915149777
 title: Want Your Child To Eat (Almost) Everything? There Is A Way
-datePublished: '2018-06-25T08:26:12.916Z'
-dateModified: '2018-06-25T08:26:11.973Z'
-datePublishedOriginal: '2018-06-25T08:26:12.916Z'
+datePublished: '2018-06-25T09:23:36.831Z'
+dateModified: '2018-06-25T09:23:36.345Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-06-25-want-your-child-to-eat-almost-everything-there-is-a-way.md
+starred: false
+datePublishedOriginal: '2018-06-25T08:26:12.916Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
