@@ -17,13 +17,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.huffingtonpost.co.uk/entry/how-to-teach-your-kids-to-care-about-other-people_us_5b29cc2ce4b05d6c16c8c089
 title: How To Raise Kids Who Care About Other People
-datePublished: '2018-06-25T08:25:52.966Z'
-dateModified: '2018-06-25T08:25:37.399Z'
-datePublishedOriginal: '2018-06-25T08:25:52.966Z'
+datePublished: '2018-06-25T09:23:36.830Z'
+dateModified: '2018-06-25T09:23:36.345Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-06-25-how-to-raise-kids-who-care-about-other-people.md
+starred: false
+datePublishedOriginal: '2018-06-25T08:25:52.966Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
