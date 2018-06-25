@@ -14,13 +14,13 @@ app_links: []
 isBasedOnUrl: >-
   https://www.businesslive.co.za/bt/money/2018-06-23-how-to-teach-your-kids-to-be-smart-with-money/
 title: How to teach your kids to be smart with money
-datePublished: '2018-06-25T08:24:33.156Z'
-dateModified: '2018-06-25T08:24:25.029Z'
-datePublishedOriginal: '2018-06-25T08:24:33.156Z'
+datePublished: '2018-06-25T09:23:36.837Z'
+dateModified: '2018-06-25T09:23:36.345Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2018-06-25-how-to-teach-your-kids-to-be-smart-with-money.md
+starred: false
+datePublishedOriginal: '2018-06-25T08:24:33.156Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
